@@ -11,6 +11,9 @@ A list of  papers in ActiveVision and VLN
  - Speaker-Follower Models for Vision-and-Language Navigation.pdf
  - The Regretful Agent- Heuristic-Aided Navigation through Progress Estimation.pdf
  - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.pdf
+ - Look Before You Leap- Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation.pdf
+ - Guided Feature Transformation (GFT)- A Neural Language Grounding Module for Embodied Agents.pdf
+ - Neural Modular Control for Embodied Question Answering.pdf
 
 ### FurtherReading (Active vision methods, different problem setting, etc)
  - Adaptive Object Detection Using Adjacency and Zoom Prediction.pdf
