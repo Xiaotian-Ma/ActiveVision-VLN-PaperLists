@@ -1,5 +1,5 @@
 # ActiveVision-VLN-PaperLists
-[Learnboard of VLN](https://evalai.cloudcv.org/web/challenges/challenge-page/97/leaderboard/270)
+[Leaderboard of VLN](https://evalai.cloudcv.org/web/challenges/challenge-page/97/leaderboard/270)
 
 A list of  papers in ActiveVision and VLN
 
