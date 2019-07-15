@@ -20,7 +20,7 @@ A list of  papers in ActiveVision and VLN
  - Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation (***CVPR*** 2019) [[pdf](https://arxiv.org/pdf/1903.02547.pdf)]
  - Self-Monitoring Navigation Agent via Auxiliary Progress Estimation (***ICLR*** 2019) [[pdf](https://arxiv.org/pdf/1901.03035.pdf)]
  - Speaker-Follower Models for Vision-and-Language Navigation (***NeurIPS*** 2018) [[pdf](https://arxiv.org/pdf/1806.02724.pdf)]
-### Methods using imitation learning to explore the unseen environment
+### Methods using imitation learning and exploring the unseen environment
  - Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout (***NAACL*** 2019) [[pdf](https://arxiv.org/pdf/1904.04195.pdf)]
  - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation (***CVPR*** 2019) [[pdf](https://arxiv.org/pdf/1811.10092.pdf)]
 
